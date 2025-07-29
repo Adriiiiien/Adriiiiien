@@ -1,16 +1,40 @@
-## Hi there 👋
+<img src="gifs/top_background.gif" width="100%" height="150px">
 
-<!--
-**Adriiiiien/Adriiiiien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Welcome to my profile</h1>
 
-Here are some ideas to get you started:
+<p align="center"> +  o  .    .              + .    .  '    Dev | Design | Create  +  o  .    .              + .    .  '   </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&logoColor=hotpink" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/Illustrator-black?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" />
+</p>
+
+---
+
+<p align="center">Currently working on a project called <b>Hexed</b> ...</p>
+
+---
+
+<h3 align="center">🔗 Socials:</h3>
+<p align="center">
+  <a href="https://discord.gg/89UtsHJQDv" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logoColor=white&label=" />
+  </a>
+  <a href="https://x.com/adriiiiien_" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logoColor=white&label=" />
+  </a>
+  <a href="mailto:adrien-simon@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logoColor=white&label=" />
+  </a>
+</p>
